@@ -8,8 +8,8 @@ The preprocessing of the dataset involves assigning edges, classes, and features
 Source :  https://medium.com/@adjcs224w/illicit-transaction-detection-in-graph-networks-c0d381d85999
 
 ### References: 
-•	Weber, M., Domeniconi, G., Chen, J., Weidele, D. K., Bellei, C., Robinson, T., & Leiserson, C. E. (2019). Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics. ArXiv. /abs/1908.02591
-•	AmolDominicJosh. (2023, December 15). Illicit Transaction Detection in Graph Networks.
-•	GAT fraud detection. illicit-f1=0.89. (n.d.). Kaggle.com
-•	Veličković, P., Cucurull, G., Casanova, A., Romero, A., Liò, P., & Bengio, Y. (2017). Graph Attention Networks. ArXiv. /abs/1710.10903
-•	Hamilton, W. L., Ying, R., & Leskovec, J. (2017). Inductive Representation Learning on Large Graphs. ArXiv. /abs/1706.02216
+•	Weber, M., Domeniconi, G., Chen, J., Weidele, D. K., Bellei, C., Robinson, T., & Leiserson, C. E. (2019). Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics. ArXiv. /abs/1908.02591 <br>
+•	AmolDominicJosh. (2023, December 15). Illicit Transaction Detection in Graph Networks. <br>
+•	GAT fraud detection. illicit-f1=0.89. (n.d.). Kaggle.com <br>
+•	Veličković, P., Cucurull, G., Casanova, A., Romero, A., Liò, P., & Bengio, Y. (2017). Graph Attention Networks. ArXiv. /abs/1710.10903 <br>
+•	Hamilton, W. L., Ying, R., & Leskovec, J. (2017). Inductive Representation Learning on Large Graphs. ArXiv. /abs/1706.02216 <br>
